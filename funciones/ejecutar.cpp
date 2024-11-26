@@ -1,4 +1,3 @@
-#include "funciones.h"
 #include "ejecutar.h"
 #include <iostream>
 #include <string>
